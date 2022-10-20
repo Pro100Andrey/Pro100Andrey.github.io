@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2022-10-20T13:56:12+03:00
-draft: true
+draft: false
 ---
 
 11+ years of Software Development. 
