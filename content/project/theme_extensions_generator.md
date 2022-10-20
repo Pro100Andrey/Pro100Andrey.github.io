@@ -1,7 +1,7 @@
 ---
 title: "Theme Extensions Generator"
 date: 2022-10-20T15:06:12+03:00
-draft: true
+draft: false
 ---
 
 Welcome to [theme_extensions_builder](https://github.com/pro100andrey/theme_extensions_builder), the code generator for Flutter ThemeExtension classes introduced in Flutter 3.0. The generator helps to minimize the required boilerplate code.
