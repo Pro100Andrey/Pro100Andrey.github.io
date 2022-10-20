@@ -9,7 +9,7 @@ homeSubtitle = "Software Developer"
 
 [params.logo]
 logoText = "pro100.dev"
-      
+
 
 [[params.social]]
 name = "github"
@@ -19,3 +19,9 @@ url = "https://github.com/pro100andrey"
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/andrey-ivanov-37114286/"
+
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "about"
