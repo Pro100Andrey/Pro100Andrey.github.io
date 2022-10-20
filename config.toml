@@ -2,6 +2,8 @@ baseURL = 'https://pro100andrey.github.io'
 languageCode = 'en-us'
 title = 'Andrey Ivanov'
 theme = "hello-friend-ng"
+enableRobotsTXT = true
+googleAnalytics = 'G-JHG7RRVCJK'
 
 [params]
 # Subtitle for home
