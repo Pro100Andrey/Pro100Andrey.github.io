@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Andrey Ivanov'
 theme = "hello-friend-ng"
 enableRobotsTXT = true
-googleAnalytics = 'G-JHG7RRVCJK'
+googleAnalytics = 'G-DPENQVVHDD'
 
 [params]
 # Subtitle for home
@@ -19,7 +19,6 @@ url = "https://github.com/pro100andrey"
 [[params.social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/andrey-ivanov-37114286/"
-
 
 [[menu.main]]
 identifier = "projects"
