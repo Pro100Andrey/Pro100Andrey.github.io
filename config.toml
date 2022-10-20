@@ -1,0 +1,16 @@
+baseURL = 'https://pro100andrey.github.io'
+languageCode = 'en-us'
+title = 'Andrey Ivanov'
+theme = "hello-friend-ng"
+
+[params]
+# Subtitle for home
+homeSubtitle = "Software Developer"
+
+[params.logo]
+logoText = "pro100.dev"
+      
+
+[[params.social]]
+name = "github"
+url = "https://github.com/pro100andrey"
