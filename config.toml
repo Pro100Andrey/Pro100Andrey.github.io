@@ -1,6 +1,6 @@
 baseURL = 'https://pro100andrey.github.io'
 languageCode = 'en-us'
-title = 'Andrey Ivanov'
+title = 'Andrii Ivanov'
 theme = "hello-friend-ng"
 enableRobotsTXT = true
 googleAnalytics = 'G-DPENQVVHDD'
