@@ -18,7 +18,7 @@ url = "https://github.com/pro100andrey"
 
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/andrey-ivanov-37114286/"
+url = "https://www.linkedin.com/in/andrii-ivanov-37114286/"
 
 [[menu.main]]
 identifier = "projects"
